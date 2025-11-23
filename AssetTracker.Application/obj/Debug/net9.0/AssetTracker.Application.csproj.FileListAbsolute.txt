@@ -1,0 +1,15 @@
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/bin/Debug/net9.0/AssetTracker.Application.deps.json
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/bin/Debug/net9.0/AssetTracker.Application.dll
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/bin/Debug/net9.0/AssetTracker.Application.pdb
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/bin/Debug/net9.0/AssetTracker.Domain.dll
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/bin/Debug/net9.0/AssetTracker.Domain.pdb
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.csproj.AssemblyReference.cache
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.AssemblyInfoInputs.cache
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.AssemblyInfo.cs
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.csproj.CoreCompileInputs.cache
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTra.32D3BF69.Up2Date
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.dll
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/refint/AssetTracker.Application.dll
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/AssetTracker.Application.pdb
+/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/Debug/net9.0/ref/AssetTracker.Application.dll

@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.API/AssetTracker.API.csproj": {}
+  },
+  "projects": {
+    "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.API/AssetTracker.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.API/AssetTracker.API.csproj",
+        "projectName": "AssetTracker.API",
+        "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.API/AssetTracker.API.csproj",
+        "packagesPath": "/home/leonardobecker/.nuget/packages/",
+        "outputPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardobecker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj": {
+                "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj"
+              },
+              "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Infrastructure/AssetTracker.Infrastructure.csproj": {
+                "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Infrastructure/AssetTracker.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj",
+        "projectName": "AssetTracker.Application",
+        "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj",
+        "packagesPath": "/home/leonardobecker/.nuget/packages/",
+        "outputPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardobecker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj": {
+                "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj",
+        "projectName": "AssetTracker.Domain",
+        "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj",
+        "packagesPath": "/home/leonardobecker/.nuget/packages/",
+        "outputPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardobecker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Infrastructure/AssetTracker.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Infrastructure/AssetTracker.Infrastructure.csproj",
+        "projectName": "AssetTracker.Infrastructure",
+        "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Infrastructure/AssetTracker.Infrastructure.csproj",
+        "packagesPath": "/home/leonardobecker/.nuget/packages/",
+        "outputPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardobecker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj": {
+                "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Application/AssetTracker.Application.csproj"
+              },
+              "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj": {
+                "projectPath": "/home/leonardobecker/Documentos/AssetTracker/AssetTracker.Domain/AssetTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
